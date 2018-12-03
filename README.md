@@ -1,1 +1,1 @@
-# therichiekumar.github.io
+# pyclasses.github.io
